@@ -6,6 +6,7 @@ A list of all of my XBMC addons and scripts! Primarily intended for XBMC4Xbox, m
 
 ## Scripts:
 [**Cortana Server Browser**](https://github.com/faithvoid/script.cortanaserverbrowser) - Insignia/XLink Kai server browser. Shows player stats, how many players are in which game, how many active sessions are going, etc.
+
 [**Cortana Chat**](https://github.com/faithvoid/script.cortanachat) - Xbox Media Centre / XBMC4Xbox script for 2-way IP-based instant messaging, with realtime notifications!
 
 ## Addons:
