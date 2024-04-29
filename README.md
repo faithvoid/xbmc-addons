@@ -5,11 +5,11 @@ A list of all of my XBMC addons and scripts! Primarily intended for XBMC4Xbox, m
 [**Cortana**](https://github.com/faithvoid/skin.cortana) - JX 720 skin modification, incorporates Insignia / XLink Kai features and 2024-era modernizations and quality of life features. **(WIP)**
 
 ## Scripts:
-[**Cortana Server Browser**](https://github.com/faithvoid/script.cortanaserverbrowser) - Insignia/XLink Kai server browser. Shows player stats, how many players are in which game, how many active sessions are going, etc.
+[**Cortana Server Browser**](https://github.com/faithvoid/script.cortanaserverbrowser) - Insignia/XLink Kai server browser. Shows player stats, how many players are in which game, how many active sessions are going, etc. (*Beta*)
 
-[**Cortana Chat**](https://github.com/faithvoid/script.cortanachat) - Xbox Media Centre / XBMC4Xbox script for 2-way IP-based instant messaging, with realtime notifications!
+[**Cortana Chat**](https://github.com/faithvoid/script.cortanachat) - Xbox Media Centre / XBMC4Xbox script for 2-way IP-based instant messaging, with realtime notifications! (*Alpha*)
 
-[**Cortana Wireless**](https://github.com/faithvoid/script.cortanawireless) - Xbox Media Centre script for XBMC4Xbox + Raspberry Pi to use a Raspberry Pi as a wireless adapter.
+[**Cortana Wireless**](https://github.com/faithvoid/script.cortanawireless) - Xbox Media Centre script for XBMC4Xbox + Raspberry Pi to use a Raspberry Pi as a wireless adapter. (*WIP*)
 
 ## Addons:
 ### Music:
