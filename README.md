@@ -14,6 +14,7 @@ A list of all of my XBMC addons and scripts! Primarily intended for XBMC4Xbox, m
 ## Addons:
 ### Music:
 [**hearthis.at**](https://github.com/faithvoid/plugin.music.hearthisat) - A hearthis.at client for XBMC4Xbox.
+
 [**ScrobbleBox**](https://github.com/faithvoid/script.scrobblebox) - An offline Last.FM/Libre.FM scrobble logger for XBMC4Xbox.
 
 
