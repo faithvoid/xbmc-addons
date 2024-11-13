@@ -11,6 +11,8 @@ A list of all of my XBMC addons and scripts! Primarily intended for XBMC4Xbox, m
 
 [**Cortana Wireless**](https://github.com/faithvoid/script.cortanawireless) - Xbox Media Centre script for XBMC4Xbox + Raspberry Pi to use a Raspberry Pi as a wireless adapter. (*WIP*)
 
+[**Soundtrack Hex Editor**](https://github.com/faithvoid/script.soundtrackhexeditor) - A utility that modifies the hex of .XBE files to read soundtrack files from "F:\TDATA\FFFE000" instead of "E:\TDATA\FFFE000".
+
 ## Addons:
 ### Music:
 [**hearthis.at**](https://github.com/faithvoid/plugin.music.hearthisat) - A hearthis.at client for XBMC4Xbox.
