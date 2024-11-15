@@ -13,6 +13,8 @@ A list of all of my XBMC addons and scripts! Primarily intended for XBMC4Xbox, m
 
 [**XBE Audio Patcher**](https://github.com/faithvoid/script.xbeaudiopatcher) - A utility that modifies the hex of .XBE files to read soundtrack files from "F:\TDATA\FFFE000" instead of "E:\TDATA\FFFE000".
 
+[**XBE Save Patcher**](https://github.com/faithvoid/script.xbesavepatcher) - A utility that modifies the hex of .XBE files to read/write save files from "F:\TDATA\" instead of "E:\TDATA\".
+
 ## Addons:
 ### Music:
 [**hearthis.at**](https://github.com/faithvoid/plugin.music.hearthisat) - A hearthis.at client for XBMC4Xbox.
