@@ -9,6 +9,8 @@ A list of all of my XBMC addons and scripts! Primarily intended for XBMC4Xbox, m
 
 [**Cortana Chat**](https://github.com/faithvoid/script.cortanachat) - Xbox Media Centre / XBMC4Xbox script for 2-way IP-based instant messaging, with realtime notifications! (*Alpha*)
 
+[**Cortana Display**](https://github.com/faithvoid/script.cortanadisplay) - Xbox Media Centre script for XBMC4Xbox + Raspberry Pi to use the Raspberry Pi as a wireless "modchip" display using a SH1106/SSD1306. (*Alpha*)
+
 [**Cortana Wireless**](https://github.com/faithvoid/script.cortanawireless) - Xbox Media Centre script for XBMC4Xbox + Raspberry Pi to use a Raspberry Pi as a wireless adapter. (*WIP*)
 
 [**XBE Soundtrack Patcher**](https://github.com/faithvoid/script.xbesoundtrackpatcher) - A utility that modifies the hex of .XBE files to read soundtrack files from "F:\TDATA\FFFE000" instead of "E:\TDATA\FFFE000".
