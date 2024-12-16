@@ -21,5 +21,9 @@ A list of all of my XBMC addons and scripts! Primarily intended for XBMC4Xbox, m
 - [**Newgrounds Audio Portal**](https://github.com/faithvoid/plugin.music.newgrounds) - Newgrounds Audio Portal client for XBMC4Xbox.
 ### Video:
 - [**Medusa**](https://github.com/faithvoid/plugin.video.medusa) - An Internet Archive video collection streaming add-on for XBMC4Xbox.
+### Pictures:
+- [**BoxBooru**](https://github.com/faithvoid/plugin.pictures.boxbooru) - An *booru imageboard viewer for XBMC4Xbox.
+### Video:
+[**Medusa**](https://github.com/faithvoid/plugin.video.medusa) - An Internet Archive video collection streaming add-on for XBMC4Xbox.
 
 
