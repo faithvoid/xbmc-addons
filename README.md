@@ -5,7 +5,6 @@ A list of all of my XBMC addons and scripts! Primarily intended for XBMC4Xbox, m
 [**Cortana**](https://github.com/faithvoid/skin.cortana) - JX 720 skin modification, incorporates Insignia / XLink Kai features and 2024-era modernizations and quality of life features. **(WIP)**
 
 ## Scripts:
-### Xbox:
 - [**Alexandria**](https://github.com/faithvoid/script.alexandria) - Internet Archive downloader for XBMC. (**BETA**)
 - [**Cortana Server Browser**](https://github.com/faithvoid/script.cortanaserverbrowser) - Insignia & XLink Kai server browser / session notifier for Xbox Media Centre / XBMC4Xbox. (**ALPHA**)
 - [**Cortana Wireless**](https://github.com/faithvoid/script.cortanawireless) - Wireless adapter solution for the original Xbox using a Raspberry Pi and an ethernet adapter. (**BETA**)
@@ -24,6 +23,4 @@ A list of all of my XBMC addons and scripts! Primarily intended for XBMC4Xbox, m
 ### Pictures:
 - [**BoxBooru**](https://github.com/faithvoid/plugin.pictures.boxbooru) - An *booru imageboard viewer for XBMC4Xbox.
 ### Video:
-[**Medusa**](https://github.com/faithvoid/plugin.video.medusa) - An Internet Archive video collection streaming add-on for XBMC4Xbox.
-
-
+- [**Medusa**](https://github.com/faithvoid/plugin.video.medusa) - An Internet Archive video collection streaming add-on for XBMC4Xbox.
