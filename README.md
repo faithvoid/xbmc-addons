@@ -2,7 +2,7 @@
 A list of all of my XBMC addons and scripts! Primarily intended for XBMC4Xbox, most should work on XBMC4Gamers but no support will be provided.
 
 ## Themes:
-[**Cortana**](https://github.com/faithvoid/skin.cortana) - JX 720 skin modification, incorporates Insignia / XLink Kai features and 2024-era modernizations and quality of life features. **(WIP)**
+- [**Cortana**](https://github.com/faithvoid/skin.cortana) - JX 720 skin modification, incorporates Insignia / XLink Kai features and 2024-era modernizations and quality of life features. **(WIP)**
 
 ## Scripts:
 - [**Alexandria**](https://github.com/faithvoid/script.alexandria) - Internet Archive downloader for XBMC. (**BETA**)
