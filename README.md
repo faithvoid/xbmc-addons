@@ -27,4 +27,4 @@ A list of all of my XBMC addons and scripts! Primarily intended for XBMC4Xbox, m
 - [**Medusa**](https://github.com/faithvoid/plugin.video.medusa) - An Internet Archive video collection streaming add-on for XBMC4Xbox.
 - [**ToonamiX**](https://github.com/faithvoid/plugin.video.toonamiX) - A Toonami Aftermath livestream add-on for XBMC4Xbox.
 ## Programs:
-- [**xSky**](https://github.com/faithvoid/plugin.xsky) - A Bluesky / AT Protocol client for XBMC4Xbox.
+- [**xSky**](https://github.com/faithvoid/plugin.programs.xsky) - A Bluesky / AT Protocol client for XBMC4Xbox.
