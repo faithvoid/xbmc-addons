@@ -7,7 +7,7 @@ A list of all of my XBMC addons and scripts! Primarily intended for XBMC4Xbox, m
 ## Scripts:
 - [**Alexandria**](https://github.com/faithvoid/script.alexandria) - Internet Archive downloader for XBMC. (**BETA**)
 - [**Cortana Server Browser**](https://github.com/faithvoid/script.cortanaserverbrowser) - Insignia & XLink Kai server browser / session notifier (**ALPHA**)
-- [**Cortana Chat**](https://github.com/faithvoid/script.cortanachatv2) - Xbox Media Centre / XBMC4Xbox script for 2-way IP-based instant messaging, with realtime notifications! (**ALPHA**)
+- [**Cortana Chat**](https://github.com/faithvoid/script.cortanachatv2) - Bluesky / AT Protocol based social messaging client for XBMC4Xbox. (**ALPHA**)
 - [**Cortana Cloud**](https://github.com/faithvoid/script.cortanacloud) - Dropbox-based cloud save game synchronization for XBMC4Xbox.  
 - [**Cortana Wireless**](https://github.com/faithvoid/script.cortanawireless) - Wireless adapter solution for the original Xbox using a Raspberry Pi and an ethernet adapter. (**BETA**)
 - [**Cortana Companion**](https://github.com/faithvoid/script.cortanacompanion) - Script for XBMC4Xbox + Raspberry Pi to use the Raspberry Pi as a wireless "modchip-esque" display using a SH1106/SSD1306. (**BETA**)
