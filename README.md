@@ -17,7 +17,7 @@ A list of all of my XBMC addons and scripts! Primarily intended for XBMC4Xbox, m
 - [**UnArchiver**](https://github.com/faithvoid/script.unarchiver) - Simple .zip extraction tool for XBMC4Xbox (**BETA**)
 - [**XBE Soundtrack Patcher**](https://github.com/faithvoid/script.xbesoundtrackpatcher) - A utility that modifies the hex of .XBE files to read soundtrack files from "F:\TDATA\FFFE000" instead of "E:\TDATA\FFFE000". (**BETA**)
 - [**XBE Save Patcher**](https://github.com/faithvoid/script.xbesavepatcher) - A utility that modifies the hex of .XBE files to read/write save & update files from "F:\TDATA\" instead of "E:\TDATA\". (**BETA**)
-- [**XLink Revived**](https://github.com/faithvoid/script.xbesavepatcher) - XLink Kai client script for XBMC4Xbox that allows control of arenas of an external XLink Kai system (**ALPHA**)
+- [**XLink Revived**](https://github.com/faithvoid/script.xbesavepatcher) - XLink Kai client script for XBMC4Xbox that allows control of arenas of an external XLink Kai system
 
 ## Addons:
 ### Music:
